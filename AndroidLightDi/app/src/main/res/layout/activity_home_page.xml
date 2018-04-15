@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.helospark.ditest.activity.HomePageActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:text="LightDi quiz"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/playButton"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="20dp"
+        android:text="Play the game" />
+
+    <Button
+        android:id="@+id/highscoreButton"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="20dp"
+        android:text="Highscore" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="20dp"
+        android:text="Exit" />
+
+</LinearLayout>

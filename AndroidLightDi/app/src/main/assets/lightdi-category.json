@@ -1,0 +1,8 @@
+{
+  "category": "lightdi-en",
+  "name": "LightDi knowledge",
+  "language": "en",
+  "uris": [
+    "classpath:lightdi-questions.json"
+  ]
+}

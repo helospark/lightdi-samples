@@ -1,0 +1,46 @@
+[
+  {
+    "type": "selector",
+    "text": "What is an annotation LightDI uses",
+    "options": [
+      {
+        "optionText": "@Component",
+        "correct": "true"
+      },
+      {
+        "optionText": "@Module",
+        "correct": "false"
+      },
+      {
+        "optionText": "@Provider",
+        "correct": "false"
+      },
+      {
+        "optionText": "@Data",
+        "correct": "false"
+      }
+    ]
+  },
+  {
+    "type": "selector",
+    "text": "What is DI stand for",
+    "options": [
+      {
+        "optionText": "Dependency Injection",
+        "correct": "true"
+      },
+      {
+        "optionText": "Drug Injection",
+        "correct": "false"
+      },
+      {
+        "optionText": "Do It",
+        "correct": "false"
+      },
+      {
+        "optionText": "DIrection",
+        "correct": "false"
+      }
+    ]
+  }
+]
